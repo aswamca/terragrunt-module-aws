@@ -1,1 +1,0 @@
-AWS resource deployment using terraform module with Terragrungt anf GIT HUb Actions
